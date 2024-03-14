@@ -1,0 +1,2 @@
+id, name, list,credit
+dsa, python, [], 4
