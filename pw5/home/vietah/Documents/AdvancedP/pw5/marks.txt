@@ -1,0 +1,2 @@
+Course: python
+vanh : 5
